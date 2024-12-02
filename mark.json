@@ -1,0 +1,82 @@
+[
+  {
+    "Customer ID": 1,
+    "Name": "Mary Smith",
+    "Email": "mary.smith@sakilacustomer.org",
+    "Address": "1913 Hanoi Way",
+    "City": "Sasebo",
+    "Country": "Japan"
+  },
+  {
+    "Customer ID": 2,
+    "Name": "Patricia Johnson",
+    "Email": "patricia.johnson@sakilacustomer.org",
+    "Address": "1121 Loja Avenue",
+    "City": "San Bernardino",
+    "Country": "United States"
+  },
+  {
+    "Customer ID": 3,
+    "Name": "Linda Williams",
+    "Email": "linda.williams@sakilacustomer.org",
+    "Address": "692 Joliet Street",
+    "City": "Athenai",
+    "Country": "Greece"
+  },
+  {
+    "Customer ID": 5,
+    "Name": "Elizabeth Brown",
+    "Email": "elizabeth.brown@sakilacustomer.org",
+    "Address": "53 Idfu Parkway",
+    "City": "Nantou",
+    "Country": "Taiwan"
+  },
+  {
+    "Customer ID": 7,
+    "Name": "Maria Miller",
+    "Email": "maria.miller@sakilacustomer.org",
+    "Address": "900 Santiago de Compostela Parkway",
+    "City": "Kragujevac",
+    "Country": "Yugoslavia"
+  },
+  {
+    "Customer ID": 10,
+    "Name": "Dorothy Taylor",
+    "Email": "dorothy.taylor@sakilacustomer.org",
+    "Address": "1531 Sal Drive",
+    "City": "Esfahan",
+    "Country": "Iran"
+  },
+  {
+    "Customer ID": 12,
+    "Name": "Nancy Thomas",
+    "Email": "nancy.thomas@sakilacustomer.org",
+    "Address": "808 Bhopal Manor",
+    "City": "Yamuna Nagar",
+    "Country": "India"
+  },
+  {
+    "Customer ID": 15,
+    "Name": "Helen Harris",
+    "Email": "helen.harris@sakilacustomer.org",
+    "Address": "419 Iligan Lane",
+    "City": "Bhopal",
+    "Country": "India"
+  },
+  {
+    "Customer ID": 17,
+    "Name": "Donna Thompson",
+    "Email": "donna.thompson@sakilacustomer.org",
+    "Address": "270 Toulon Boulevard",
+    "City": "Elista",
+    "Country": "Russian Federation"
+  },
+  {
+    "Customer ID": 19,
+    "Name": "Ruth Martinez",
+    "Email": "ruth.martinez@sakilacustomer.org",
+    "Address": "1417 Lancaster Avenue",
+    "City": "Kimberley",
+    "Country": "South Africa"
+  }
+]
